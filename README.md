@@ -49,6 +49,7 @@ Raw sales data maintained in separate sheet:
 - Pivot Tables
 - Charts
 - Slicers / Form Controls
+- Macros
 - Conditional Formatting
 
 ---
